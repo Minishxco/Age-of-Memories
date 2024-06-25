@@ -1,43 +1,43 @@
-# Solicitud de Eliminación de Datos para Age of Memories
+# Data Deletion Request for Age of Memories
 
-Fecha de vigencia: 2025
+Effective Date: 2025
 
-En Minishxco, valoramos y respetamos la privacidad de nuestros usuarios. Si deseas solicitar la eliminación de tus datos recopilados a través de nuestro videojuego "Age of Memories", sigue los pasos a continuación.
+At Minishxco, we value and respect the privacy of our users. If you wish to request the deletion of your data collected through our game "Age of Memories," please follow the steps below.
 
-## Datos Recopilados
-Recopilamos los siguientes datos a través de Firebase:
+## Data Collected
+We collect the following data through Firebase:
 
-- **ID del dispositivo**
-- **Nombre de usuario**
-- **Tiempo de juego**
-- **Ranking de jugadores**
+- **Device ID**
+- **Username**
+- **Playtime**
+- **Player Rankings**
 
-## Pasos para Solicitar la Eliminación de Datos
+## Steps to Request Data Deletion
 
-Para solicitar la eliminación de tus datos, sigue estos pasos:
+To request the deletion of your data, please follow these steps:
 
-1. **Envía un correo electrónico a minishxco@gmail.com** con el asunto "Solicitud de Eliminación de Datos - Age of Memories".
-2. En el cuerpo del correo, proporciona la siguiente información:
-    - Tu nombre de usuario en el juego.
-    - El ID de tu dispositivo (si lo conoces).
-    - Cualquier otra información que nos ayude a identificar tus datos en nuestro sistema.
-    - Adjunta evidencias como capturas de pantalla del juego que muestren tu nombre de usuario y cualquier otro dato relevante.
+1. **Send an email to minishxco@gmail.com** with the subject line "Data Deletion Request - Age of Memories."
+2. In the body of the email, provide the following information:
+   - Your username in the game.
+   - Your device ID (if known).
+   - Any other information that helps us identify your data in our system.
+   - Attach evidence such as screenshots from the game showing your username and any other relevant data.
 
-## Tipos de Datos que se Eliminan
+## Types of Data Deleted
 
-Al recibir y procesar tu solicitud, eliminaremos los siguientes datos asociados con tu cuenta:
+Upon receiving and processing your request, we will delete the following data associated with your account:
 
-- ID del dispositivo
-- Nombre de usuario
-- Tiempo de juego
-- Ranking de jugadores
+- Device ID
+- Username
+- Playtime
+- Player Rankings
 
-## Periodos de Retención Adicionales
+## Additional Retention Periods
 
-Después de recibir tu solicitud, procesaremos la eliminación de tus datos en un plazo de 30 días. No conservaremos ningún dato personal más allá de este período, salvo que sea necesario por razones legales.
+After receiving your request, we will process the deletion of your data within 30 days. We will not retain any personal data beyond this period unless required by legal reasons.
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o inquietud sobre la eliminación de datos, no dudes en contactarnos a través del siguiente correo electrónico: minishxco@gmail.com.
+If you have any questions or concerns about data deletion, please do not hesitate to contact us via email at minishxco@gmail.com.
 
-Gracias por jugar y por confiar en Minishxco.
+Thank you for playing and trusting Minishxco.

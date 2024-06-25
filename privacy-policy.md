@@ -1,48 +1,48 @@
-# Política de Privacidad para Age of Memories
+# Privacy Policy for Age of Memories
 
-Fecha de vigencia: 2025
+Effective Date: 2025
 
-En Minishxco, valoramos y respetamos la privacidad de nuestros usuarios. Esta Política de Privacidad explica cómo recopilamos, utilizamos, divulgamos y protegemos la información que obtenemos a través de nuestro videojuego "Age of Memories", disponible en Google Play Store.
+At Minishxco, we value and respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and protect information we obtain through our game "Age of Memories," available on Google Play Store.
 
-## 1. Información que Recopilamos
+## 1. Information We Collect
 
-Nuestro Juego está diseñado para ofrecer una experiencia divertida y educativa. A través de Firebase, recopilamos y almacenamos la siguiente información:
+Our game is designed to provide a fun and educational experience. Through Firebase, we collect and store the following information:
 
-- **ID del dispositivo**: Recopilamos un identificador único de su dispositivo para gestionar su cuenta de usuario y los datos del juego.
-- **Nombre de usuario**: Almacenamos el nombre proporcionado por el usuario para personalizar la experiencia del juego y mostrar en los rankings.
-- **Tiempo de juego**: Registramos el tiempo de juego para estadísticas internas y mejorar la experiencia del usuario.
-- **Ranking de jugadores**: Mostramos los 10 mejores jugadores en un ranking público basado en el rendimiento dentro del juego.
+- **Device ID**: We collect a unique identifier of your device to manage your user account and game data.
+- **Username**: We store the name provided by the user to personalize the gaming experience and display in rankings.
+- **Playtime**: We record playtime for internal statistics and to enhance the user experience.
+- **Player Rankings**: We display the top 10 players in a public ranking based on in-game performance.
 
-## 2. Uso de la Información
+## 2. Use of Information
 
-Utilizamos la información recopilada para:
+We use the collected information to:
 
-- Mejorar y optimizar la experiencia del Juego.
-- Analizar y entender cómo los usuarios interactúan con el Juego.
-- Desarrollar nuevas funciones y contenido.
-- Mostrar clasificaciones y estadísticas dentro del Juego.
-- Detectar, prevenir y abordar problemas técnicos o de seguridad.
+- Improve and optimize the game experience.
+- Analyze how users interact with the game.
+- Develop new features and content.
+- Display rankings and statistics within the game.
+- Detect, prevent, and address technical or security issues.
 
-## 3. Divulgación de la Información
+## 3. Disclosure of Information
 
-No vendemos, intercambiamos ni transferimos a terceros su información personal identificable. Podemos compartir datos agregados y no personales con terceros para ayudarnos a analizar el uso del Juego y mejorar la experiencia del usuario.
+We do not sell, trade, or transfer your personally identifiable information to third parties. We may share aggregated and non-personal data with third parties to help us analyze game usage and improve user experience.
 
-## 4. Seguridad de los Datos
+## 4. Data Security
 
-Implementamos medidas de seguridad adecuadas para proteger la información recopilada contra el acceso, alteración, divulgación o destrucción no autorizados. Utilizamos Firebase, que proporciona robustas medidas de seguridad para los datos almacenados. Sin embargo, ninguna transmisión de datos a través de Internet o almacenamiento electrónico es completamente segura, por lo que no podemos garantizar una seguridad absoluta.
+We implement appropriate security measures to protect collected information against unauthorized access, alteration, disclosure, or destruction. We utilize Firebase, which provides robust security measures for stored data. However, no transmission of data over the Internet or electronic storage is completely secure, so we cannot guarantee absolute security.
 
-## 5. Privacidad de los Menores
+## 5. Children's Privacy
 
-No recopilamos deliberadamente información personal de niños menores de 13 años. Si descubrimos que hemos recopilado información personal de un niño menor de 13 años sin el consentimiento de los padres, tomaremos medidas para eliminar dicha información lo antes posible. Los padres que tengan preguntas o inquietudes sobre nuestra política de privacidad pueden contactarnos en cualquier momento.
+We do not knowingly collect personal information from children under 13 years of age. If we discover that we have inadvertently collected personal information from a child under 13 without parental consent, we will take steps to delete that information as soon as possible. Parents with questions or concerns about our privacy policy can contact us at any time.
 
-## 6. Cambios a esta Política de Privacidad
+## 6. Changes to this Privacy Policy
 
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de vigencia. Le recomendamos revisar esta Política de Privacidad periódicamente para estar informado sobre cómo protegemos su información.
+We may update our Privacy Policy from time to time. We will notify of any changes by posting the new Privacy Policy on this page and updating the effective date. We recommend reviewing this Privacy Policy periodically to stay informed about how we protect your information.
 
-## 7. Contacto
+## 7. Contact Us
 
-Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad o nuestras prácticas de privacidad, no dude en contactarnos a través del siguiente correo electrónico: minishxco@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at: minishxco@gmail.com.
 
-Al utilizar nuestro Juego, usted acepta los términos de esta Política de Privacidad. Si no está de acuerdo con estos términos, le pedimos que no utilice nuestro Juego.
+By using our game, you agree to the terms of this Privacy Policy. If you do not agree with these terms, we ask that you do not use our game.
 
-Gracias por jugar y por confiar en Minishxco.
+Thank you for playing and trusting Minishxco.
